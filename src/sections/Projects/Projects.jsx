@@ -11,25 +11,25 @@ function Projects() {
       <h1 className="sectionTitle">Projects</h1>
       <div className={styles.projectsContainer}>
         <ProjectCard
-          src={finflow}
+          src={viberr}
           link="https://github.com/sadafqureshia/FinFlow.git"
           h3="FinFlow"
           p="Expense Tracker Website"
         />
         <ProjectCard
-          src={notes}
+          src={freshBurger}
           link="https://github.com/sadafqureshia/Flutter_Notes_app.git"
           h3="Notes"
           p="Notes Provider App"
         />
         <ProjectCard
-          src={akalconference}
+          src={hipsster}
           link="https://github.com/sadafqureshia/conference.git"
           h3="Akal Conference"
           p="Conference Website"
         />
         <ProjectCard
-          src={keepahealthclub}
+          src={fitLift}
           link="https://github.com/sadafqureshia/gym-website.git"
           h3="Keepa Health Club"
           p="Gym Website"
