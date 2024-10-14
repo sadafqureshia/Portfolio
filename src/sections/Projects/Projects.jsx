@@ -23,13 +23,13 @@ function Projects() {
           p="Notes Provider App"
         />
         <ProjectCard
-          src={akal conference}
+          src={akalconference}
           link="https://github.com/sadafqureshia/conference.git"
           h3="Akal Conference"
           p="Conference Website"
         />
         <ProjectCard
-          src={keepa health club}
+          src={keepahealthclub}
           link="https://github.com/sadafqureshia/gym-website.git"
           h3="Keepa Health Club"
           p="Gym Website"
