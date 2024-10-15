@@ -53,7 +53,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-        I’m a final-year CS student passionate about full stack development. Skilled in React, Flutter, and Node.js, I create user-friendly apps and websites. I love learning new tech and value close relationships with family and friends. 
+        I’m a final-year CS student passionate about full stack development. 
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
