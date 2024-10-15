@@ -53,7 +53,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          I am a final-year Computer Science student with a strong passion for full stack web and app development. Skilled in technologies like React, Next.js, Flutter, and Node.js, I enjoy building clean, user-friendly interfaces and efficient backend systems. I’ve worked on a variety of projects, including e-commerce websites, mobile apps, and specialized systems like an attendance app. With a focus on continuous learning, I love exploring new tools to enhance my work and deliver creative solutions. I also value close relationships with friends and family, who inspire me daily.
+        I’m a final-year CS student passionate about full stack development. Skilled in React, Flutter, and Node.js, I create user-friendly apps and websites. I love learning new tech and value close relationships with family and friends. 
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
